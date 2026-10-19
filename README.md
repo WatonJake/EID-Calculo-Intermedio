@@ -146,7 +146,6 @@ Fuentes consultadas para preparar la explicación:
 
 ## Datos del grupo
 
-Completar antes de la entrega:
 
 - Curso: `MAT1188`
 - Grupo: `G01`
