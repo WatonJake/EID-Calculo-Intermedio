@@ -150,6 +150,6 @@ Completar antes de la entrega:
 
 - Curso: `MAT1188`
 - Grupo: `G01`
-- Integrantes y cuentas de GitHub: `[completar]`
+- Integrantes y cuentas de GitHub: `Camilo Gangas (WatonJake) Benjamin Parra (Laantiii) Fabian Gracia (Fabo01)`
 - Repositorio: `https://github.com/WatonJake/EID-Calculo-Intermedio`
 - SHA del commit que corresponde al código del video: `f62c0712bc2a4fb663e2101aa1c3de1865af99cc`
